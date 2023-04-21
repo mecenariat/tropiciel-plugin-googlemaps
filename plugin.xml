@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-googlemaps" version="2.7.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-  <name>cordova-plugin-googlemaps</name>
+<plugin id="tropiciel-plugin-googlemaps" version="2.7.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+  <name>tropiciel-plugin-googlemaps</name>
   <js-module name="Promise" src="www/Promise.js" />
   <js-module name="BaseClass" src="www/BaseClass.js">
     <runs/>
@@ -112,9 +112,9 @@
 
   This plugin works in browser application as well. One code for Android, iOS, and browsers!
   </description>
-  <repo>https://github.com/mapsplugin/cordova-plugin-googlemaps.git</repo>
-  <issue>https://github.com/mapsplugin/cordova-plugin-googlemaps/issues</issue>
-  <author>Masashi Katsumata, Hirbod</author>
+  <repo>https://github.com/mecenariat/tropiciel-plugin-googlemaps.git</repo>
+  <issue>https://github.com/mecenariat/tropiciel-plugin-googlemaps/issues</issue>
+  <author>Masashi Katsumata, Hirbod, Mecenas</author>
 
   <license>Apache-2.0</license>
 
